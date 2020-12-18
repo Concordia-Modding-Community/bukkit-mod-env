@@ -6,7 +6,7 @@ This is a basic template for developing Minecraft mods.
 
 - [Docker](https://www.docker.com/)
 - Java JRE + JDK
-- [Maven](https://maven.apache.org/)
+- [Maven](https://maven.apache.org/) or [Gradle](https://gradle.org/)
 
 ## Config
 
