@@ -1,4 +1,4 @@
-# Minecraft Mod Environment
+# Bukkit Mod Environment
 
 This is a basic template for developing Minecraft mods.
 
